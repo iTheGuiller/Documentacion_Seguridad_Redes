@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Planilla"
             }
+          },
+          {
+            "id": "5d89bb8756f2e56c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +194,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "a26af2adb064b2ab",
+  "active": "5d89bb8756f2e56c",
   "lastOpenFiles": [
+    "First Find.md",
+    "Planilla.md",
+    "Big zip.md",
+    "repetitions.md",
+    "Magikarp Ground Mission.md",
+    "Tab, Tab, Attack.md",
+    "useless.md",
+    "Static ain't always noise.md",
+    "Wave a flag.md",
+    "strings it.md",
+    "Based.md",
+    "Glitch Cat.md",
     "Nice netcat....md",
     "2Warm.md",
-    "Planilla.md",
-    "Glitch Cat.md",
     "plumbing.md",
     "Lets Warm Up.md",
     "what's a net cat?.md",
